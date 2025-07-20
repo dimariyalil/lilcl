@@ -7,6 +7,7 @@
   "scripts": {
     "start": "node api_gateway/server.js",
     "dev": "node --watch api_gateway/server.js",
+    "prod": "node start_production.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "test:ceo": "node test/test_ceo.js",
     "test:simple": "node test/test_ceo_simple.js",
