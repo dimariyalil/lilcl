@@ -92,7 +92,7 @@ export class Agent {
       const userPrompt = this.buildUserPrompt(taskDescription, context);
 
       const response = await this.claude.messages.create({
-        model: 'claude-3-sonnet-20240229',
+        model: 'claude-3-5-sonnet-20241022',
         max_tokens: 2000,
         system: systemPrompt,
         messages: [
@@ -249,7 +249,7 @@ Always provide specific, actionable recommendations and cite relevant data or an
     // Generate insights using Claude
     try {
       const response = await this.claude.messages.create({
-        model: 'claude-3-sonnet-20240229',
+        model: 'claude-3-5-sonnet-20241022',
         max_tokens: 1500,
         system: `You are ${this.name}, generating a ${reportType} report as a ${this.role}.`,
         messages: [
