@@ -1,0 +1,24 @@
+{
+  "name": "ai-agents-team-management",
+  "version": "1.0.0",
+  "description": "AI agents team management system for task coordination and collaboration",
+  "type": "module",
+  "main": "api_gateway/server.js",
+  "scripts": {
+    "start": "node api_gateway/server.js",
+    "dev": "node --watch api_gateway/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ai", "agents", "team-management", "claude", "telegram"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.24.3",
+    "node-telegram-bot-api": "^0.64.0",
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

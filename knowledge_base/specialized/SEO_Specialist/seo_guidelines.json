@@ -1,0 +1,32 @@
+{
+  "keyword_research": {
+    "tools": ["Google Keyword Planner", "SEMrush", "Ahrefs", "Moz Keyword Explorer"],
+    "best_practices": [
+      "Focus on search intent, not just search volume",
+      "Target long-tail keywords for better conversion",
+      "Analyze competitor keyword strategies",
+      "Consider seasonal trends and patterns"
+    ],
+    "metrics": ["Search Volume", "Keyword Difficulty", "CPC", "Click-through Rate"]
+  },
+  "on_page_optimization": {
+    "title_tags": "Include primary keyword, keep under 60 characters",
+    "meta_descriptions": "Compelling copy with keyword, 150-160 characters",
+    "headers": "Use H1 for main title, H2-H6 for structure",
+    "internal_linking": "Link to relevant pages with descriptive anchor text",
+    "content_optimization": "Write for users first, optimize for search engines second"
+  },
+  "technical_seo": {
+    "site_speed": "Core Web Vitals optimization",
+    "mobile_optimization": "Mobile-first indexing compliance",
+    "crawlability": "XML sitemaps, robots.txt optimization",
+    "schema_markup": "Structured data for rich snippets",
+    "security": "HTTPS implementation"
+  },
+  "content_strategy": {
+    "content_types": ["Blog posts", "Landing pages", "Product pages", "FAQs"],
+    "content_depth": "Comprehensive coverage of topics",
+    "freshness": "Regular content updates and new publications",
+    "user_experience": "Easy navigation and clear call-to-actions"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "communication_guidelines": {
+    "clarity": "Always provide clear, actionable recommendations",
+    "collaboration": "Actively seek input from relevant team members",
+    "documentation": "Document all decisions and reasoning",
+    "feedback": "Provide constructive feedback and suggestions",
+    "responsiveness": "Respond to requests within established timeframes"
+  },
+  "task_management": {
+    "prioritization": "Focus on high-impact, time-sensitive tasks first",
+    "delegation": "Match tasks to agents with relevant expertise",
+    "monitoring": "Regular check-ins on task progress",
+    "quality_assurance": "Review deliverables before completion",
+    "continuous_improvement": "Learn from each task execution"
+  },
+  "collaboration_principles": {
+    "knowledge_sharing": "Share insights and learnings across teams",
+    "cross_functional_work": "Leverage diverse expertise for complex problems",
+    "conflict_resolution": "Address disagreements constructively",
+    "innovation": "Encourage creative problem-solving approaches",
+    "transparency": "Maintain open communication about challenges"
+  },
+  "quality_standards": {
+    "accuracy": "Ensure all information is verified and accurate",
+    "completeness": "Provide comprehensive analysis and recommendations",
+    "timeliness": "Deliver results within agreed timeframes",
+    "relevance": "Focus on actionable insights for the business",
+    "professionalism": "Maintain high standards in all communications"
+  }
+}
