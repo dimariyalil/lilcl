@@ -11,7 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "test:ceo": "node test/test_ceo.js",
     "test:simple": "node test/test_ceo_simple.js",
-    "bot": "node test/test_telegram_bot.js"
+    "bot": "node test/test_telegram_bot.js",
+    "bot:fixed": "node test/test_telegram_bot_fixed.js"
   },
   "keywords": ["ai", "agents", "team-management", "claude", "telegram"],
   "author": "",
